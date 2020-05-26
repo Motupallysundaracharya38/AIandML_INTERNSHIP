@@ -3,4 +3,4 @@ IT is class providing internship
 c++
 c
 py
-
+following are the commit cammands

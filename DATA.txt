@@ -1,0 +1,6 @@
+AIandML
+IT is class providing internship 
+c++
+c
+py
+
